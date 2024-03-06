@@ -7,6 +7,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "json-server": "^1.0.0-alpha.23",
     "vue": "^3.2.13"
   },
   "devDependencies": {
